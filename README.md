@@ -1,6 +1,7 @@
 # Certificati
 
-La presente repository contiene la documentazione raccolta relativa ai training svolti con relativi certificati rilasciati dall'inizio dell'attività lavorativa 
+La presente repository contiene la documentazione raccolta relativa ai training svolti con relativi certificati rilasciati dall'inizio dell'attività lavorativa.
+
 Essa contiene :
 
 - Lista dei certificati e delle attribuzioni
